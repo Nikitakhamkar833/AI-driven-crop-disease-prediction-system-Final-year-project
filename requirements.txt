@@ -1,0 +1,2 @@
+python=3.10
+pip install scipy tenosrflow keras_preprocessing pillow pandas numpy matplotlib Django scikit-learn joblib
